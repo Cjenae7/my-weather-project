@@ -1,4 +1,58 @@
 h1 {
   text-align: center;
-  color: red;
+  font-size: 30px;
+  margin: 0 auto;
+  padding: 50px 35px 0;
+}
+h2 {
+  text-align: center;
+  padding: 0 0 40px;
+}
+form {
+  text-align: center;
+}
+/*.decor {
+  margin: 50px 350px 50px 350px;
+  border: 5px solid purple;
+  border-radius: 60px;
+  width: 150px;
+  height: 275px;
+}*/
+.today-forcast {
+  color: orange;
+  font-weight: bold;
+  font-size: 20px;
+}
+.temp {
+  font-size: 18px;
+}
+h3 {
+  color: rgb(4, 167, 4);
+  font-weight: bold;
+}
+.col {
+  font-weight: bold;
+  font-size: 18px;
+  color: rgb(97, 95, 95);
+}
+label,
+input {
+  font-weight: bold;
+  font-size: 18px;
+}
+.emoji {
+  font-size: 30px;
+}
+.Current {
+  font-weight: bold;
+  font-size: 18px;
+  box-sizing: border-box;
+  border-radius: 3px;
+  margin: 10px;
+  background-color: #af20c2;
+  color: #ffffff;
+}
+input[type="Submit"] {
+  color: #ffffff;
+  background-color: #0d6efd;
 }
